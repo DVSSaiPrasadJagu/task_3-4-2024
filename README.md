@@ -85,9 +85,9 @@ public class ForLoop {
   
 
     int i = 90;
-for (; i < 100; i += 2) {
-    System.out.println(i);
-}
+	for (; i < 100; i += 2) {
+	    System.out.println(i);
+	}
 
     }
 }
@@ -101,10 +101,10 @@ iv)
 public class ForLoop {
     public static void main(String[] args) {
    
-int i=90;
-for(;i>100;i--){
-    System.out.println(i);
-}
+	int i=90;
+	for(;i>100;i--){
+	    System.out.println(i);
+	}
 
     }
 }
